@@ -6,7 +6,7 @@ Uses mongo database and jwt authentication
 
 ## 2- Create your database at cloud mongo db
 
-## 3- configigure .env 
+## 3- configure .env 
  ### A- DB_CONNECTION= mongo server url
  ### B- TOKEN_SECRET= secret that you want
 
